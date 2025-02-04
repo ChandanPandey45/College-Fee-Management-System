@@ -1,0 +1,84 @@
+﻿
+body {
+    margin:0;
+    background-image:url(172161.jpg);
+   
+   
+}
+
+
+.Table {
+
+   
+}  
+
+table {
+    position:center;
+    width: 400px;
+    height:100px;
+    border:1px solid #bad0e0;
+    border-radius:10px;
+    margin-top: 200px;
+    margin-left: 600px;
+    margin-right: 600px;
+    margin-bottom:200px;
+    background-color: white;
+    color:#1d1c1c;
+}
+table tr{
+    border-bottom:1px solid purple;
+}
+td {
+    padding-top:10px;
+    padding-left:20px;
+    padding-right:20px;
+    padding-bottom:10px;
+    border:1px solid #bad0e0;
+    border-radius:10px;
+}
+
+.input-field {
+    margin-top:5px;
+    margin-left:25px;
+    margin-right:25px;
+    margin-bottom:5px;
+    padding:5px;
+}
+
+.header img {
+    float: left;
+    width: 80px;
+    height: 80px;
+    background-color: white;
+}
+
+.header {
+    padding: 20px;
+    background-color: purple;
+    color: white;
+    text-align: center;
+}
+#message {
+    font-size:50px;
+    color:gray;
+    position:absolute;
+    top:160px;
+    right:545px;
+}
+.login-button {
+    background-color: purple;
+    color: white;
+    margin-top:0;
+    margin-left:120px;
+    margin-right:120px;
+    margin-bottom:0;
+    padding: 10px 30px;
+    font-size:20px;
+    border: 1px solid #c2236d;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+    .login-button:hover {
+        background-color: palevioletred;
+    }
